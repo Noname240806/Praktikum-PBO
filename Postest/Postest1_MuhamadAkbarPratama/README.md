@@ -1,11 +1,5 @@
 # Posttest 1 - Pemrograman Berorientasi Objek (PBO)
 
-**Sistem Manajemen & Reservasi Wisata Antariksa (Orbit Wisata Antariksa)**
-
-Dokumentasi ini dibuat untuk memenuhi tugas Posttest 1 mata kuliah Pemrograman Berorientasi Objek (PBO). Program diimplementasikan menggunakan bahasa pemrograman Python dengan menerapkan prinsip dasar OOP sesuai ketentuan Modul 1, Modul 2, dan Modul 3.
-
----
-
 ## Deskripsi Program
 
 Program Orbit Wisata Antariksa merupakan sistem pengelolaan reservasi wisata antarplanet berbasis Object-Oriented Programming (OOP). Sistem ini mengintegrasikan tiga entitas utama:
